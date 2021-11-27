@@ -1,0 +1,5 @@
+---
+pageClass: frontend-class
+---
+
+# frontend
